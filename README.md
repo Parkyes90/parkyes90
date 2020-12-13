@@ -10,3 +10,4 @@
 <img src="https://img.shields.io/badge/AWS-%23232F3E?style=flat-square&logo=AmazonAws&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/PostgreSQL-%23336791?style=flat-square&logo=PostgreSQL&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Node.js-%23339933?style=flat-square&logo=Node.js&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/ApacheKafka-%23000000?style=flat-square&logo=Apache Kafka&logoColor=white"/>&nbsp;
