@@ -7,5 +7,5 @@
 <img src="https://img.shields.io/badge/Kubernetes-%23326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/React-%2361DAFB?style=flat-square&logo=React&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/GraphQL-%23E10098?style=flat-square&logo=GraphQL&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/AmazonAWS-%23232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/AWS-%23232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>&nbsp;
 
