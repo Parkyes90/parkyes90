@@ -12,3 +12,12 @@
 <img src="https://img.shields.io/badge/Node.js-%23339933?style=flat-square&logo=Node.js&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Apache%20Kafka-%23000000?style=flat-square&logo=Apache%20Kafka&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Redis-%23DC382D?style=flat-square&logo=Redis&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/PyTorch-%23EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Git-%23F05032?style=flat-square&logo=Git&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/GitHub-%23181717?style=flat-square&logo=GitHub&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Jenkins-%23D24939?style=flat-square&logo=Jenkins&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Go-%2300ADD8?style=flat-square&logo=Go&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/MongoDB-%2347A248?style=flat-square&logo=MongoDB&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Mapbox-%23000000?style=flat-square&logo=Mapbox&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Java-%23007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp;
