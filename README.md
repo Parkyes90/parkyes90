@@ -20,7 +20,6 @@
 <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Go-%2300ADD8?style=flat-square&logo=Go&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/MongoDB-%2347A248?style=flat-square&logo=MongoDB&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Mapbox-%23000000?style=flat-square&logo=Mapbox&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Java-%23007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Elastic%20Stack-%23005571?style=flat-square&logo=Elastic%20Stack&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Apache%20Spark-%23E25A1C?style=flat-square&logo=Apache%20Spark&logoColor=white"/>&nbsp;
