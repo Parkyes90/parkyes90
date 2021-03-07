@@ -27,5 +27,5 @@
 <img src="https://img.shields.io/badge/Ruby%20on%20Rails-%23CC0000?style=flat-square&logo=Ruby%20on%20Rails&logoColor=white"/>&nbsp;
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=parkyes90)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=parkyes90)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkyes90&amp;layout=compact)](https://github.com/anuraghazra/github-readme-stats)
