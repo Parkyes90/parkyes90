@@ -1,6 +1,5 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FParkyes90&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Django-%23092E20?style=flat-square&logo=Django&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Typescript-%23007ACC?style=flat-square&logo=Typescript&logoColor=white"/>&nbsp;
@@ -24,3 +23,5 @@
 <img src="https://img.shields.io/badge/Elastic%20Stack-%23005571?style=flat-square&logo=Elastic%20Stack&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Apache%20Spark-%23E25A1C?style=flat-square&logo=Apache%20Spark&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/WebRTC-%23333333?style=flat-square&logo=WebRTC&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Ruby-%23CC342D?style=flat-square&logo=Ruby&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Ruby%20on%20Rails-%23CC0000?style=flat-square&logo=Ruby%20on%20Rails&logoColor=white"/>&nbsp;
