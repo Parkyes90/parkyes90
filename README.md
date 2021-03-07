@@ -28,4 +28,4 @@
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=parkyes90)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkyes90&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkyes90&exclude_repot=data-science&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
