@@ -14,6 +14,9 @@
 <img src="https://img.shields.io/badge/Git-%23F05032?style=flat-square&logo=Git&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Ruby-%23CC342D?style=flat-square&logo=Ruby&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Ruby%20on%20Rails-%23CC0000?style=flat-square&logo=Ruby%20on%20Rails&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Terraform-%237B42BC?style=flat-square&logo=Terraform&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Packer-%2302A8EF?style=flat-square&logo=Packer&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Ansible-%23EE0000?style=flat-square&logo=Ansible&logoColor=white"/>&nbsp;
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=parkyes90&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
